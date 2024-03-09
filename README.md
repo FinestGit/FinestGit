@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **FinestGit/FinestGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Current Stats
+[![Chase's GitHub stats](https://github-readme-stats.vercel.app/api?username=FinestGit&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)  
+![Chase's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FinestGit&theme=aura_dark&exclude_repo=FinestGit.github.io)  
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=FinestGit&row=1&column=8&no-frame=true" alt="FinestGit"/>
+</div>
