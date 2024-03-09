@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Chase's GitHub stats](https://github-readme-stats.vercel.app/api?username=FinestGit&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)  
 ![Chase's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FinestGit&theme=aura_dark&exclude_repo=FinestGit.github.io)  
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=FinestGit&row=1&column=8&no-frame=true" alt="FinestGit"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FinestGit&row=1&theme=monokai" alt="FinestGit"/>
 </div>
